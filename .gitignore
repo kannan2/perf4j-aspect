@@ -1,0 +1,11 @@
+*.log
+*~
+target
+.DS_Store
+.classpath
+.project
+.settings
+.springBeans
+META-INF
+bin
+test-output
